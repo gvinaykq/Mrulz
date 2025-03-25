@@ -1,0 +1,13 @@
+movierulz-tv-app/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/movierulz/
+│   │   │   │   ├── MainActivity.kt
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   ├── activity_main.xml
+│   │   │   ├── AndroidManifest.xml
+├── build.gradle
+├── settings.gradle
+└── README.md
